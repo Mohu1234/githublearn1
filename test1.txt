@@ -1,2 +1,6 @@
 Created test1.txt file
+<<<<<<< Updated upstream
 Added second row
+=======
+Added a new line to to test
+>>>>>>> Stashed changes
